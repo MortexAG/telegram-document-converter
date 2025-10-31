@@ -1,1 +1,2 @@
-docker build -t telegram-document-converter .
+#!/bin/bash
+docker build --network=host -t telegram-document-converter .
