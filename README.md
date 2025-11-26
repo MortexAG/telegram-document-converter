@@ -10,14 +10,7 @@ Supports PDF, Word, PowerPoint, and image files.
 BOT_TOKEN=your_telegram_bot_token
 ALLOWED_USERS=123456789,987654321
 ```
-```
-
 - Leave the ALLOWED_USERS field empty to allow anyone to use the bot.
-
-```
-```
-```
-
 ### 2. Build the image
 
 ```
